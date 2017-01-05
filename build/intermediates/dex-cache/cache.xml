@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\kdotz\AndroidStudioProjects\MySpotifyApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="C:\Users\kdotz\AndroidStudioProjects\MySpotifyApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.4.0_1abbfbaec302f59c24d775d1c2ce0ee1976e57f2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\kdotz\AndroidStudioProjects\MySpotifyApp\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="C:\Users\kdotz\AndroidStudioProjects\MySpotifyApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-23.4.0_ad84c6aee41945b419cb4a7f8521de8d367288bf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\kdotz\AndroidStudioProjects\MySpotifyApp\app\build\intermediates\exploded-aar\com.spotify.sdk\spotify-android-auth\1.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="0e7c2daeb5c4e8a4b0874bd62367979bb1c0c82a">
+        <dex dex="C:\Users\kdotz\AndroidStudioProjects\MySpotifyApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.spotify.sdk-spotify-android-auth-1.0.0_b3ddcca969d850f8799780a7cfd4bec9d05da7ae\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\kdotz\AndroidStudioProjects\MySpotifyApp\app\build\intermediates\exploded-aar\com.spotify.sdk\spotify-player-24-noconnect\2.20b\jars\libs\jnihelpers-1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="b54aab38b4f87a6682331b511fec0db6b952bb7e">
+        <dex dex="C:\Users\kdotz\AndroidStudioProjects\MySpotifyApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\jnihelpers-1.0_19a69d9d1e02391a4d850235a7d9e6c7aa6a1d71\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\kdotz\AndroidStudioProjects\MySpotifyApp\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="82a2ff1eaaced1548217e34726adb5392e4268c7">
+        <dex dex="C:\Users\kdotz\AndroidStudioProjects\MySpotifyApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_a4503311b76ccc7e3515b2825dfb42b044617ff2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\kdotz\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="C:\Users\kdotz\AndroidStudioProjects\MySpotifyApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.4.0_d73b44763cc9957bd93ce0caa111a2915b7ff57e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\kdotz\AndroidStudioProjects\MySpotifyApp\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="89830b24533c3990e45d7720339533b2b946449e">
+        <dex dex="C:\Users\kdotz\AndroidStudioProjects\MySpotifyApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_0c75d3822f6f111836809e84dd1cd372861977ec\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\kdotz\AndroidStudioProjects\MySpotifyApp\app\build\intermediates\exploded-aar\com.spotify.sdk\spotify-player-24-noconnect\2.20b\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="55220cc71bd23fff8fc339a67f55be3cfd11cdec">
+        <dex dex="C:\Users\kdotz\AndroidStudioProjects\MySpotifyApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.spotify.sdk-spotify-player-24-noconnect-2.20b_662442d08fa241e61311fa1a2079df3562e66949\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\kdotz\AndroidStudioProjects\MySpotifyApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="C:\Users\kdotz\AndroidStudioProjects\MySpotifyApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.4.0_561c1f747d37e9b3e15e6bf48ac929a5499c1fea\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\kdotz\AndroidStudioProjects\MySpotifyApp\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="C:\Users\kdotz\AndroidStudioProjects\MySpotifyApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-23.4.0_e97d16e9be0c203ccf386a853a42872a969b8bf2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\kdotz\AndroidStudioProjects\MySpotifyApp\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="C:\Users\kdotz\AndroidStudioProjects\MySpotifyApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.4.0_f2599cb6e804a38f82d8491f8f76c2bca1bc73eb\classes.dex" />
+    </item>
+
+</items>

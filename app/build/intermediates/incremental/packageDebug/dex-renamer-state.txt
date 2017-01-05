@@ -1,0 +1,7 @@
+#Wed Jan 04 21:03:25 CST 2017
+base.0=C\:\\Users\\kdotz\\AndroidStudioProjects\\MySpotifyApp\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_0c75d3822f6f111836809e84dd1cd372861977ec
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\kdotz\\AndroidStudioProjects\\MySpotifyApp\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_a4503311b76ccc7e3515b2825dfb42b044617ff2\\classes.dex
+base.1=C\:\\Users\\kdotz\\AndroidStudioProjects\\MySpotifyApp\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_a4503311b76ccc7e3515b2825dfb42b044617ff2
+file.0=C\:\\Users\\kdotz\\AndroidStudioProjects\\MySpotifyApp\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_0c75d3822f6f111836809e84dd1cd372861977ec\\classes.dex
